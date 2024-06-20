@@ -19,6 +19,8 @@ subcollection: overview
 With continuous compliance at the core of {{site.data.keyword.cloud}}'s platform, your team has all of the tools at your disposal to securely develop, deploy, and manage your regulated, mission-critical enterprise workloads in the cloud.
 {: shortdesc}
 
+All data in transit is encrypted. Only TLS 1.2 and 1.3 are supported in iBM Cloud with TLS 1.1 and below explicitly disabled to prevent downgrading to a vulnerable version of the protocol.
+
 For highly regulated industries, such as financial services, achieving continuous compliance within a cloud environment is an important first step toward protecting customer and application data. Historically, that process has been difficult and manual, which placed your organization at risk. But, with {{site.data.keyword.cloud_notm}} you can work with predefined deployable architectures, automate infrastructure-as-code deployments with [projects](#x2035151){: term}, and integrate automatic security checks into every day workflows to minimize risk.
 
 With {{site.data.keyword.cloud_notm}}, your whole team from solution architects, compliance managers, infrastructure DevOps teams, to application development teams can use a shift-left approach to identify security risks and exposures early when developing and deploying cloud solutions. This keeps security and compliance at the center of your workflow and organizational culture so that your enterprise can operate in the cloud with confidence. Check out the following video to learn more about how {{site.data.keyword.cloud_notm}} can help you accelerate and maintain your regulated standards at scale.
